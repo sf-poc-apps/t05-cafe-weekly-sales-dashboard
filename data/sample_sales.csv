@@ -1,0 +1,29 @@
+date,category,item,quantity,amount
+2026-11-16,Coffee,Espresso,12,39.00
+2026-11-16,Coffee,Latte,18,67.50
+2026-11-16,Pastry,Croissant,9,31.50
+2026-11-16,Tea,Green Tea,6,18.00
+2026-11-17,Coffee,Espresso,15,48.75
+2026-11-17,Coffee,Cappuccino,11,44.00
+2026-11-17,Pastry,Blueberry Muffin,7,24.50
+2026-11-17,Sandwich,Turkey Club,5,32.50
+2026-11-18,Coffee,Latte,21,78.75
+2026-11-18,Tea,Earl Grey,8,24.00
+2026-11-18,Sandwich,Veggie Wrap,6,39.00
+2026-11-18,Pastry,Croissant,10,35.00
+2026-11-19,Coffee,Espresso,17,55.25
+2026-11-19,Coffee,Cappuccino,14,56.00
+2026-11-19,Sandwich,Chicken Panini,9,58.50
+2026-11-19,Pastry,Cinnamon Roll,8,32.00
+2026-11-20,Coffee,Latte,19,71.25
+2026-11-20,Coffee,Espresso,13,42.25
+2026-11-20,Tea,Chamomile,7,21.00
+2026-11-20,Pastry,Blueberry Muffin,11,38.50
+2026-11-21,Coffee,Cappuccino,16,64.00
+2026-11-21,Pastry,Croissant,13,45.50
+2026-11-21,Sandwich,Turkey Club,8,52.00
+2026-11-21,Tea,Green Tea,9,27.00
+2026-11-22,Coffee,Latte,23,86.25
+2026-11-22,Coffee,Espresso,18,58.50
+2026-11-22,Sandwich,Veggie Wrap,7,45.50
+2026-11-22,Pastry,Cinnamon Roll,10,40.00
